@@ -2,7 +2,7 @@ import json
 import laspy
 import pandas as pd
 from config import Config
-from log import get_logger
+from scripts.logger import get_logger
 
 
 class FileHandler():
